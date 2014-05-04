@@ -5,7 +5,7 @@ just a test of hosting a chrome extension on github pages.
 
 ## installation
 
-1. download [this crx file](https://github.com/adammw/miniature-octo-widgit/blob/gh-pages/dummy-chrome-extension-0.0.21.crx)
+1. right-click and download [this crx file](http://adammw.github.io/miniature-octo-widgit/dummy-chrome-extension-0.0.21.crx) somewhere locally
 1. open chrome://extensions
 1. drag the downloaded crx file into the page (not from the downloads tray but from Finder)
 1. click add (to install the extension), notice that v0.0.21 is installed
